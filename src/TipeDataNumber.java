@@ -14,5 +14,17 @@ public class TipeDataNumber {
         int binaryDecimal = 0b10101010;
 
         int amount = 1_000_000_000;
+
+        System.out.println(iniByte);
+        System.out.println(iniShort);
+        System.out.println(iniInteger);
+        System.out.println(iniLong);
+        System.out.println(iniLong2);
+        System.out.println(iniFloat);
+        System.out.println(iniDouble);
+        System.out.println(decimalInt);
+        System.out.println(hexaDecimal);
+        System.out.println(binaryDecimal);
+        System.out.println(amount);
     }
 }
