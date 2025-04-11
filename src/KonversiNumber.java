@@ -7,6 +7,5 @@ public class KonversiNumber {
         byte iniByte2 = (byte) iniInt;
 
         System.out.println(iniByte2);
-
     }
 }
